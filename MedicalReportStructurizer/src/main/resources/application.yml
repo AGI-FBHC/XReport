@@ -20,5 +20,5 @@ mybatis-plus:
 deepseek:
   api:
     base-url: https://api.deepseek.com/v1/chat/completions
-    api-key: sk-61e98eb6961c48faa16655446c58e968
+    api-key:  
     timeout: 10000  # 请求超时时间（ms）
