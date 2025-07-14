@@ -7,8 +7,8 @@ import re
 from urllib.parse import unquote
 
 # API端点URL，需替换为实际接口地址
-API_URL = 
-EXCEL_API_URL = 
+API_URL = "http://127.0.0.1:6024/XXX/XXX"
+EXCEL_API_URL = "http://127.0.0.1:6024/XXX/excel"
 
 def convert_text_to_document(text):
     """将文本发送到API并返回生成的报告路径"""
