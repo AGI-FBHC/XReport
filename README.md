@@ -42,7 +42,7 @@
 
 1. 前后端程序都启动后，在浏览器中访问`http://localhost:6024`，即可进入使用页面：
 
-![step1](readme.assets\19b473a911496a7fd5f660ded9473749.png)
+![19b473a911496a7fd5f660ded9473749](readme.assets\19b473a911496a7fd5f660ded9473749.png)
 
 2. 点击`Examples`中的案例，文本输入框中会自动加载案例内容，点击`解析`按钮，即可结构化处理：
 
