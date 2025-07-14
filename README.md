@@ -42,39 +42,39 @@
 
 1. 前后端程序都启动后，在浏览器中访问`http://localhost:6024`，即可进入使用页面：
 
-![19b473a911496a7fd5f660ded9473749](readme.assets\19b473a911496a7fd5f660ded9473749.png)
+![step1](readme.assets/19b473a911496a7fd5f660ded9473749.png)
 
 2. 点击`Examples`中的案例，文本输入框中会自动加载案例内容，点击`解析`按钮，即可结构化处理：
 
-![step2](readme.assets\5c0a4709fea7d50dfe349b3e3265056c.png)
+![step2](readme.assets/5c0a4709fea7d50dfe349b3e3265056c.png)
 
 3. 服务器响应一条文本信息的时间约20到35秒，点击`下载链接`，即可下载结构化结果文件：
 
-![step3](readme.assets\165sdf4165sd65asdf165asd4156s6af1.png)
+![step3](readme.assets/165sdf4165sd65asdf165asd4156s6af1.png)
 
 4. 注意：上传的非结构化报告文本内容必须严格按照约定格式，否则会导致生成结果出错，具体格式请参考`Example`中的案例或excel文档中的案例：
-![step4](readme.assets\d09dc67b4a703805dd8ee9391374035b.png)
+![step4](readme.assets/d09dc67b4a703805dd8ee9391374035b.png)
 
 #### Excel上传
 1. 点击`Excel上传`按钮：
 
-![step5](readme.assets\2f7a380ca9cc3359c681cdf6db64084e.png)
+![step5](readme.assets/2f7a380ca9cc3359c681cdf6db64084e.png)
 
 2. 可以通过`拖放`或者`手动上传`方式上传Excel文件：
 
-![step6](readme.assets\8baa3943d3b7e16a5b7b413039de332a.png)
+![step6](readme.assets/8baa3943d3b7e16a5b7b413039de332a.png)
 
 3. 点击`批量生成结肠癌结构化报告`，即可开始批量处理：
 
-![step7](readme.assets\aa354a04506daba040ecce0ec56631c1.png)
+![step7](readme.assets/aa354a04506daba040ecce0ec56631c1.png)
 
 4. 点击`下载链接`，即可下载结构化结果文件
 
-![step8](readme.assets\d00aabc89edd222295cad604a30e81e6.png)
+![step8](readme.assets/d00aabc89edd222295cad604a30e81e6.png)
 
 5. 采用并行处理的方式，大大缩减了每一个条目的执行时间，采用文本输入提交时，平均每生成一条结构化报告需要花费20到35秒，而采用Excel上传方式，平均每条记录仅需花费5到10秒，执行时间与服务器性能相关，但要注意当文件过大时，生成过程也会比较慢，此时不要关闭网页，耐心等待生成完成即可，生成的zip压缩包内容如下：
 
-![step9](readme.assets\166b089862e640aa392ee20fb8b64aa4.png)
+![step9](readme.assets/166b089862e640aa392ee20fb8b64aa4.png)
 
 
 
